@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Relation of the rejoycings made in Rome for the birth of the most serene Prince of Wales only son of James the Second, King of Great Britain, defender of the faith, &amp;c. / faithfully translated into English, from the Italian impression, as it was printed at Rome and Genoa.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58454</idno>
+            <idno type="STC">Wing R863</idno>
+            <idno type="STC">ESTC R39094</idno>
+            <idno type="EEBO-CITATION">18212254</idno>
+            <idno type="OCLC">ocm 18212254</idno>
+            <idno type="VID">107162</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58454)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107162)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1129:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Relation of the rejoycings made in Rome for the birth of the most serene Prince of Wales only son of James the Second, King of Great Britain, defender of the faith, &amp;c. / faithfully translated into English, from the Italian impression, as it was printed at Rome and Genoa.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: The rejoycings at Rome for the birth of the Prince.</note>
+                  <note>"The work is not authentic--NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James, --  Prince of Wales, 1688-1766.</term>
+               <term>Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107162:1"/>
+            <pb facs="tcp:107162:1"/>
+            <p>The Relation of the REJOYCINGS MADE IN ROME For the BIRTH of the moſt Serene Prince of Wales, Only SON of <hi>James</hi> the Second, King of <hi>Great Britain,</hi> Defender of the Faith, <hi>&amp;c.</hi>
+            </p>
+            <p>Faithfully tranſlated into <hi>Engliſh,</hi> from the <hi>Italian</hi> Im<g ref="char:EOLhyphen"/>preſſion, as it was Printed at <hi>Rome</hi> and <hi>Genoa.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Randal Taylor,</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:107162:2"/>
+            <pb n="1" facs="tcp:107162:2" rendition="simple:additions"/>
+            <head>The Relation of the REJOYCINGS MADE IN ROME For the BIRTH of the moſt Serene Prince of Wales, Only SON of <hi>James</hi> the Second, King of <hi>Great Britain,</hi> Defender of the Faith, <hi>&amp;c.</hi>
+            </head>
+            <p>THE Angelical Kingdom of <hi>England,</hi> that in times paſt equalled, as I may ſo ſay, <hi>Idumaea,</hi> with ſo many Glorious Palms of Martyrs ſent to Heaven, and which publiſhed thouſands of Volumes that her Holy Doctors wrote in Favour of the Roman
+<pb n="2" facs="tcp:107162:3"/>Church; with a Diabolical Impiety, rebelling againſt the Eternal Monarch, became a miſerable Slave of Satan. And changing the Divine Worſhip into the Doctrine of Devils, continued in a moſt deplorable Condition for many Years, an Enemy of the King of Kings; but at length the moſt Merciful God, being moved to Compaſſion for ſo many Souls ſo unhappily loſt, was inclined to reduce her to her Primitive State, and make her a Worſhipper of the Holy Ca<g ref="char:EOLhyphen"/>tholick Religion, and the Succeſſor of St. <hi>Peter,</hi> his Vicar on Earth. And to bring ſo Worthy a work to a Fortunate end, makes uſe of the moſt ardent Zeal of the Catholick <hi>James</hi> the Second, there by the Di<g ref="char:EOLhyphen"/>vine Providence conſtituted King.</p>
+            <p>He was prepared for ſo Glorious an Enterpriſe, not regarding either Dangers, or Oppoſitions, nor for<g ref="char:EOLhyphen"/>bearing any Application, always Indefatigable, and all Intent to reduce his Triple Dominion to the Adora<g ref="char:EOLhyphen"/>tion of the Holy Trinity, the Confeſſion of the True Faith, and the Obedience of the Pope. This he knew he ſhould effect, through the aſſiſtance of the Divine Omnipotence, which made the lamentable Farce give way to his Power; who trampled on the Heretical Doctrines, cauſed the Precepts of Jeſus Chriſt to be publickly Profeſſed, called home the baniſhed Prieſts, reſtored the profaned Temples to the ſacred Miniſtery, and throwing down the Banners of the Prince of Darkneſs, ſets up the Standard of the Catholick Faith. And offering his Scepter at the Feet of his Holineſs our Lord Pope <hi>Innocent</hi> the XI re<g ref="char:EOLhyphen"/>ſumed it, tributary to Heaven, raiſing to himſelf
+<pb n="3" facs="tcp:107162:3"/>Statues of his ſingular Merit with the Divine Ma<g ref="char:EOLhyphen"/>jeſty, and everlaſting Fame, througout the Uni<g ref="char:EOLhyphen"/>verſe. And having driven away thoſe Rebel An<g ref="char:EOLhyphen"/>gels that led his People to Eternal Damnation, gave them for their Guides Prieſts of the Church of <hi>Rome,</hi> that would Conduct them to the ever<g ref="char:EOLhyphen"/>laſting Delights of Paradiſe.</p>
+            <p>The Great God being pleaſed to reward him on Earth, before he took him hence to receive a more glorious Recompence in Heaven, has bleſ<g ref="char:EOLhyphen"/>ſed him with a Male-child, Born the 20<hi rend="sup">th.</hi> of <hi>June,</hi> in the Year 1688. being, according to the <hi>Engliſh</hi> Style, the Feaſt of the Holy Trinity, betwixt the Hours of Nine and Ten in the Morning.</p>
+            <p>The Catholick Ruler acknowledged ſo valuable a Grace beſtowed on him by the Creator of all, and returned his due Thanks, rejoycing that he was like to breed up a Son himſelf in the Divine Precepts, that might be equally Heir both of his Father's Greatneſs, and moſt ardent Zeal for the Catholick Religion.</p>
+            <p>By an Expreſs from his Majeſty this News arri<g ref="char:EOLhyphen"/>ving at <hi>Rome,</hi> the Second of <hi>July,</hi> occaſioned a Jubilee in the Breaſt of the moſt Holy Paſtor, and univerſally filled all with extreme Joy.</p>
+            <p>Whereof there were publick Demonſtrations, and for Three Days ſucceſſively was ſolemnized the Nativity of this Royal Infant, beginning from the
+<pb n="4" facs="tcp:107162:4"/>25<hi rend="sup">th.</hi> of the ſame Month, the Feaſt of St. <hi>James</hi> the Apoſtle, in the manner ſollowing.</p>
+            <p>His Eminence, Cardinal <hi>Philip Thomas Howard</hi> of <hi>Norfolk,</hi> of the Order of the Preachers, Titular of St. <hi>Mary</hi> at the <hi>Minerva,</hi> deſigning the Church of St. <hi>Thomas</hi> of the <hi>Engliſh</hi> Nation, for the return of Thanks to God, richly hung it with Brocard Silks and very noble Tapeſtries, which, with the ſacred Veſtments, appeared ſo Splendidly, by the Reflection of a vaſt Number of Lights, that it reſembled a Palace of the Sun, and even dazled the Eyes of the Beholders.</p>
+            <p>Leave being obtained of his Holineſs, the Mor<g ref="char:EOLhyphen"/>ning of the ſaid 25<hi rend="sup">th.</hi> Day there was a Chappel for the Cardinals, where were preſent Eighteen of their Eminences, who Gloried much in this, That after ſo many Years they were at laſt met together to congratulate the Nativity of a Son of a Catholick King of <hi>England.</hi>
+            </p>
+            <p>Here was celebrated the High Maſs, at which aſſiſted the moſt Famed Muſicians, and choiceſt Singers, making their ſeveral Vertues to be admi<g ref="char:EOLhyphen"/>red by their Angelical Voices and Harmonious Con<g ref="char:EOLhyphen"/>ſorts. After the Communion <hi>Te Deum</hi> was begun, which being followed by them, was accompanied by a Conſort of Drums and Trumpets, and divers Salutes of Mortar-pieces, got ready for that pur<g ref="char:EOLhyphen"/>poſe, that for a long time made the <hi>Latian</hi> Fields, and Banks of <hi>Tyber</hi> to reſound.</p>
+            <pb n="5" facs="tcp:107162:4"/>
+            <p>His Eminence cauſed Wine, Bread, and Cheeſe, and other Refreſhments, to be diſtributed to the Servants, Foot-men, and Coach-men, of their Emi<g ref="char:EOLhyphen"/>nences the Cardinals that were at this Feaſt; who, while Eating and Drinking, made continual Huz<g ref="char:EOLhyphen"/>zaes of <hi>Viva,</hi> for his Eminence and the Royal Babe.</p>
+            <p>He cauſed alſo a great Fountain of moſt noble Architecture, painted over like Marble, to be erected, covered with Gold on the Corners and Edges, on the top whereof were the Arms of his Majeſty of <hi>Great Britain,</hi> adorned with a rich Crown, ſupported by a Lion and Unicorn, near whereto, in the Night, were ſet great Numbers of white Wax Lights, adding Beauty to this ſtately Structure; that for Three Days together, and as many Nights, run no ſmall Quantity of exquiſite Wine for the benefit of the Publick, and was diſtri<g ref="char:EOLhyphen"/>buted in exact Order by Men habited in Veſts, with the Arms of his Eminence imbroidered on them.</p>
+            <p>All the Palace of his Eminence contiguous to the forementioned Church of St. <hi>Thomas,</hi> in the Three Rows of Apartments without, was beſet with Torches of white Wax, and below were Links on ſeveral Poſts of Wood planted on the Ground about the Palace, making that vaſt Fabrick by an unuſual Miracle more reſplendent than even the Heavens when fulleſt of Stars.</p>
+            <pb n="6" facs="tcp:107162:5"/>
+            <p>His Eminence alſo cauſed a Mount of Earth to be raiſed in the Court of the <hi>Engliſh</hi> College, joyning to the ſaid Church of St. <hi>Thomas,</hi> on the top whereof was made a Majeſtick Theatre, all adorned with rich Tapeſtries and Greens, ſet toge<g ref="char:EOLhyphen"/>ther by a curious Workmanſhip, in the midſt of which, the Firſt Day (to imitate the Ancient Cuſtom of <hi>London</hi> on their Solemn Feſtivals) was roaſted a whole Ox, the extreme Parts all covered with Gold and Greens, and within full of young Pigs, and ſeveral ſorts of Fowls, that from divers Parts of the Ox ſeemed, though dead, as if they would fly Death, thruſting out their Heads and Feet at the ſeveral Holes in it, which were certain to ſerve either as a prey to the devouring Flames, if they fell there, or to the People, if pulled thence.</p>
+            <p>And for the roaſting the ſaid Great <hi>Animal,</hi> there was a Machine erected, framed with great Wheels, turned with Six Men in Coats with the Arms of his Eminence gilded on them, and Caps with the like; who, going round that Theatre, diſpenſed Fleſh and Bread in great Quantity to the People, making frequently loud Acclamations of <hi>Viva,</hi> for the new Prince of <hi>England.</hi>
+            </p>
+            <p>It gave no little Content to ſee the People that thronged to get the Meat, and when ſome with no ſmall Pains were come up juſt ready to re<g ref="char:EOLhyphen"/>ceive it, they were ſtrongly beat back by a Mul<g ref="char:EOLhyphen"/>titude of others, that with all the Force they had
+<pb n="7" facs="tcp:107162:5"/>thruſt up to this Machine; and in like manner was it great Pleaſure to behold the coveted Food taken out of a Man's Hand after he had got it with a great deal of Sweat, by thoſe that could not have it from the Diſtributers.</p>
+            <p>One greedily ſnatched the Bread and Meat, ano<g ref="char:EOLhyphen"/>ther went to Drink, a third returned to the Theatre or to the Fountain; one Clamoured, ano<g ref="char:EOLhyphen"/>ther at a diſtance called for Things; one asked for Wine, another cryed out to make way that he might come to Eat and Drink. And thus Eat<g ref="char:EOLhyphen"/>ing and Drinking (not to loſe time in the Nar<g ref="char:EOLhyphen"/>ration) in all appearance it looked like an in<g ref="char:EOLhyphen"/>ward Jubile; and ſuch a Spectacle was ſo pleaſing, that all <hi>Rome</hi> unanimously confeſſed they had not ſeen the like.</p>
+            <p>During the Illuminations, the Lights in the Air excited not only this City but the Neighbouring Places, to the greater Rejoycings.</p>
+            <p>Two good Conſorts of Drums and Trumpets continuing all the Three Days and Nights, made all that Feaſting Neighbourhood ring again.</p>
+            <p>And in the Palace of his Eminence was heard moſt incomparable Muſick, and Symphonies of the beſt Inſtruments; where his Eminence gave great Quantities of Refreſhments to all thoſe Perſons of Quality that were there met together for the Fe<g ref="char:EOLhyphen"/>ſtivity of the Royal Infant.</p>
+            <pb n="8" facs="tcp:107162:6"/>
+            <p>His Eminence did alſo Exerciſe the wonted Acts of his Generoſity, diſtributing large Alms among the modeſt, indigent Perſons of the Pariſh of St. <hi>Catherine,</hi> where his Eminence lives, and the like to the Pariſh of St. <hi>Mary</hi> at the <hi>Minerva,</hi> of which he is Titular; and beſides he gave a rich <hi>Regale</hi> to all of his Court proportionably to their reſpective Charges.</p>
+            <p>And other Cardinals and Princes, that were ei<g ref="char:EOLhyphen"/>ther allied by Relation to his Majeſty, or were his Dependents, or well affectioned to the King<g ref="char:EOLhyphen"/>dom, made their Feaſtings for the happy Birth of the Royal Babe, by ſetting up ſo many Torches and Lights at their Palaces, and making ſo many Fires about them, that it ſeemed as if they would be reduced to Aſhes in the Flames.</p>
+            <p>Sir <hi>John Lytcott,</hi> Knight, Agent for his Majeſty of <hi>Great Britain,</hi> illuminated all the Windows of his Palace, which ſtands in the <hi>Strada Gregoriana,</hi> with a vaſt Number of white Wax Torches for Three Nights, where continually, as alſo the Three Days, Drums and Trumpets ſounded, and at his own Ex<g ref="char:EOLhyphen"/>pences he made all the adjoyning Streets to his Palace to be inlightned by the hanging up many Lanthorns with the Royal Arms of <hi>England,</hi> and Links, the whole being accompanied with the Diſ<g ref="char:EOLhyphen"/>charge of a great Number of Mortar-pieces.</p>
+            <p>Over the Portal of his Palace, which was all hung with red Damask, and with Galloon and Fringe
+<pb n="9" facs="tcp:107162:6"/>of Gold, was ſeen expoſed a rare Picture, the work of ſome able <hi>Apelles,</hi> more than 12 Hands high, on which was drawn the Royal Infant, with the Habit of the moſt Noble Order of the Garter, and every way encom<g ref="char:EOLhyphen"/>paſſed with a great Laurel, which deſcended from Heaven, and was upheld by Two Angels, and girt about with a numerous Army of the ſame, one where<g ref="char:EOLhyphen"/>of held the Royal Crown of <hi>England;</hi> another in one Hand a Shield, with the Arms of <hi>England,</hi> and with the other the Sword and Garter; another had an Olive-branch in its right Hand, and in its left the Croſs of Union of <hi>England</hi> with <hi>Scotland;</hi> and another above the reſt, in the opening of the Heaven, on a Label exhibited theſe Words,</p>
+            <q>Serus redeat.</q>
+            <p>And over the Picture of the moſt Serene Prince were his Arms (<hi>i. e.</hi> Three Feathers of an Oſtrich) with this Motto,</p>
+            <q>Ich Dien, <hi>i. e.</hi> I ſerve.</q>
+            <p>Below at a diſtance was the Sun riſing in the <hi>Eaſt,</hi> Figuratively expreſſing the Child Born to be the moſt Reſplendent Sun of the Catholick Heaven; and alſo there was ſeen the Sea, with a Naval Fight, where the Invincible Courage, and Renowned Valour of the Admiral of <hi>England</hi> Triumphed over their Enemies.</p>
+            <p>This Picture made its Beholders immovable, who, though they well knew that it was made by Colour<g ref="char:EOLhyphen"/>ing and Pencil, and that it had only a Surface, never<g ref="char:EOLhyphen"/>theleſs ſeemed to cheat themſelves; inſomuch that they believed the Objects there repreſented, not feigned, but true; They ſaw the Child ſtir, the Wings
+<pb n="10" facs="tcp:107162:7"/>of the Angelick Troops clap together, the Waves of the Salt-Element move, and more than that, dyed with Blood, the broken Maſts, the torn Sails, and the Sterns ſhattered in pieces; there were ſeen labour<g ref="char:EOLhyphen"/>ing to ſwim, thoſe that remained alive out of the ſinking Ship; they ſaw the Souldiers, and the gaſp<g ref="char:EOLhyphen"/>ing Mariners, the Sport of the Waters, and it appeared to them, that they asked their help; they ſaw the Fire of the Cannons, and if they heard not the Sound, they fancied it, which becauſe of its diſtance could not reach them; and if many had not been thruſt away from that Place by the People that came to admire ſo Worthy a Work, they had been fixed there for a long time. And this Picture was in the midſt of Two, one of the King, and the other of the Queen, and above theſe was that of his Holineſs.</p>
+            <p>He cauſed alſo the Second Day an Ox to be Roaſt<g ref="char:EOLhyphen"/>ed, with other <hi>Animals</hi> within it; and becauſe the <hi>Strada Gregoriana</hi> was too ſtreight for ſuch a Perfor<g ref="char:EOLhyphen"/>mance, he choſe the Square of <hi>Trinita de Monti,</hi> near thereto where it was Roaſted in a ſpacious Place; and there the Fleſh diſtributed with Bread in great abun<g ref="char:EOLhyphen"/>dance, where the Wine run out of a fine Fountain, for Three Days, and as many Nights together, and the ſame, and like accidents followed in the diſtribution of it, as what were recounted in that of his Eminence Cardinal <hi>Howards.</hi>
+            </p>
+            <p>The <hi>Scotch</hi> College ſet up over the Portal a very Charming Picture, where was ſeen the Royal Babe in Swadling-Clothes, lying on a very rich Cuſhion, on
+<pb n="11" facs="tcp:107162:7"/>one ſide whereof were Painted, on a well wrought Pillar, the Three Crowns of the Three Kingdoms of <hi>England, Scotland,</hi> and <hi>Ireland;</hi> and on the other, at an agreeable diſtance, there was ſeen a riſing Sun, alluding, as that before, to the Birth of the Royal Prince; and over the Picture was this Motto.</p>
+            <q>
+               <l>Magnus Amor Matris,</l>
+               <l>Magnum Patris Incrementum.</l>
+            </q>
+            <p>And that Picture was placed in the midſt of Two others, one repreſenting the King his Father, on the right Hand, and, the other, on the left, the Queen his Mother; and all the Three were under a rich Canopy of Red Damask, edged with Gold, whereto were ſet ſome Torches before, that made them ſeen as clearly in the Night as Day.</p>
+            <p>And if the Pictures of Sir <hi>John Lytcott</hi> were won<g ref="char:EOLhyphen"/>derful, theſe rous'd, in thoſe that beheld them, the unuſual amazement, ſeeming that if they ſtood ſilent, it was not that they could not ſpeak, but becauſe ſi<g ref="char:EOLhyphen"/>lence became a Royal Decorum in this Conjuncture.</p>
+            <p>And for Three Days they had Illuminations, not only all over the Front of the Church and the Col<g ref="char:EOLhyphen"/>lege, but alſo of all the Houſes that were near, both of one and the other ſide the Street, at their proper Expences.</p>
+            <p>And in like manner there was caſt for Three Days, and Three Nights, abundance of Wine, from a pretty contrived Fountain, placed on one ſide the Portal of
+<pb n="12" facs="tcp:107162:8"/>the Colledge, adorned with Excellent Paintings and Greens, and on the other ſide were diſtributed ſeveral hundred Loaves of Bread to the Poor.</p>
+            <p>And to this the People flocking together to Eat and Drink, as in other Places, made of its ſelf a very de<g ref="char:EOLhyphen"/>lightful Sight.</p>
+            <p>There they diſcharged, ſometimes betwixt the Day and Night, 150 Mortar-pieces; there they burnt many Hogſheads; the Trumpets ſounded from the Windows, and the Drums in the Streets.</p>
+            <p>They alſo made a very Splendid Banquet, for all thoſe of the <hi>Scotch</hi> Nation that they found in <hi>Rome.</hi>
+            </p>
+            <p>The <hi>
+                  <g ref="char:V">Ʋ</g>rceline</hi> Nuns, lately founded by the Pious Mu<g ref="char:EOLhyphen"/>nificence of <hi>Mary Beatrice,</hi> Queen Conſort of <hi>England,</hi> and the moſt Serene <hi>Laura,</hi> Dutcheſs of <hi>Modena,</hi> her Mother, in acknowledgment for ſo great a Benefit, had Maſs Solemnly Sung in their Church, and <hi>Te Deum,</hi> with diſcharge of Mortar-pieces; and for Three Nights made rich Illuminations and Lanthorns, with the Arms of the King of <hi>Great Britain</hi> Artificially diſpoſed over all their Cloyſter.</p>
+            <p>The Convent of the <hi>Dominican</hi> Fathers of the <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Nation, Dedicated to St. <hi>John</hi> and <hi>Paul,</hi> enlight<g ref="char:EOLhyphen"/>ned for Three Nights all their Church and Convent, and particularly their Steeple, that ſeemed in the Darkneſs of the Night, as if there had been raiſed from Earth to Heaven another Sphere of Stars.</p>
+            <pb n="13" facs="tcp:107162:8"/>
+            <p>The <hi>Iriſh Dominican</hi> Fathers of St. <hi>Siſtus,</hi> and St. <hi>Cle<g ref="char:EOLhyphen"/>ment,</hi> alſo ſet up innumerable Lights on their Church at Convent.</p>
+            <p>The Religious <hi>Iriſh Franciſcans</hi> of St. <hi>Iſidore,</hi> made a very Glorious appearance of Lights, that adorned all the Frontiſ-piece of their Church for Three Nights.</p>
+            <p>Mr. <hi>Michael Plunket,</hi> Agent in <hi>Rome</hi> for the <hi>Iriſh</hi> Clergy, had very many Lights at all the Windows of his uſual Habitation, for Three Nights after the ſame manner.</p>
+            <p>But no leſs conſiderable was the Magnificent De<g ref="char:EOLhyphen"/>monſtration of Joy, both by Fires and Lights that were made the Three Nights, by —<hi>Selayne,</hi> an <hi>Iriſh</hi> Man, Profeſſor of Divinity in the College de <hi>Propaganda Fide,</hi> and Doctor of the <hi>Sorbonne.</hi>
+            </p>
+            <p>And very many other conſiderable Perſons, in Token, either of Dependence on His Majeſty, or out of Re<g ref="char:EOLhyphen"/>verence, or Affection to him, Rejoyced as others did, with Lights, Torches, and Fires, for ſo happy a Birth.</p>
+            <p>All the People of <hi>Rome</hi> were only in thoſe Places where the Rejoycings were made, the reſt of the City remaining Unpeopled.</p>
+            <p>Every one grieved that he could not be at the ſame time, in all thoſe Places, where theſe Teſtimonies were given for Joy of the Birth of ſo great a Prince; ſo that while they injoyed the Sight at one Place, they
+<pb n="14" facs="tcp:107162:9" rendition="simple:additions"/>afflicted themſelves with the conſideration of loſing it at others.</p>
+            <p>And thoſe that ſought nothing but Eating and Drinking, complained againſt Nature, for that it had not made them more Bellies, or thoſe they had, larger, and all would have been <hi>Briareus</hi>'s, that they might have ſtretched out an Hundred, and Hundred Arms to receive ſo many Portions.</p>
+            <p>In fine, all <hi>Rome</hi> Rejoyced, every Inhabitant in it Feaſted, and nothing elſe was heard all over, but the Glo<g ref="char:EOLhyphen"/>rious Name of the Happy <hi>James</hi> II. in whom the Divine Bleſſings were ſeen apparently, to reward his Heroick Acts, in having granted him a Succeſſor, who tread<g ref="char:EOLhyphen"/>ing in his Fathers Steps, ſhould purſue the Courſe of his Catholick Glories.</p>
+            <p>The <hi>Seven Hills</hi> Burned, and ſeemed one only Light, and one only Fire, and in deſpight of the Horrors of the Night, gave a clearneſs more reſplendent than that of the greater Planet at noon Day; and they look'd ſo, as when by the Cruelty of <hi>Nero,</hi> they were made a prey to the Flames, or that they repreſented the fa<g ref="char:EOLhyphen"/>mous City of <hi>Troy,</hi> when by Treachery it was made a Trophy to the Fires.</p>
+            <p>The Conſorts of Muſick, the Feſtival Sounds of the Drums, Trumpets, and Mortar-pieces, and the com<g ref="char:EOLhyphen"/>mon Acclamations that gave Applauſe to the <hi>Engliſh</hi> Rulers, and Tributes of Joy to the Born Infant, ſeemed by conſent even to deafen Heaven.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:107162:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
